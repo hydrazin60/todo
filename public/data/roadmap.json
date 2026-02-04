@@ -1,0 +1,356 @@
+{
+  "phases": [
+    {
+      "id": 1,
+      "title": "Foundation Building",
+      "duration": "Weeks 1-4",
+      "tasks": [
+        {
+          "id": "1-1",
+          "title": "Understand voltage, current, resistance (Ohm's Law: V=IR)",
+          "completed": false,
+          "category": "Week 1-2: Basic Electronics"
+        },
+        {
+          "id": "1-2",
+          "title": "Learn power calculations (P=VI)",
+          "completed": false,
+          "category": "Week 1-2: Basic Electronics"
+        },
+        {
+          "id": "1-3",
+          "title": "Distinguish between AC and DC electricity",
+          "completed": false,
+          "category": "Week 1-2: Basic Electronics"
+        },
+        {
+          "id": "1-4",
+          "title": "Study passive components: resistors, capacitors, inductors",
+          "completed": false,
+          "category": "Week 1-2: Basic Electronics"
+        },
+        {
+          "id": "1-5",
+          "title": "Complete: 5 basic circuit calculations",
+          "completed": false,
+          "category": "Week 1-2: Basic Electronics"
+        },
+        {
+          "id": "1-6",
+          "title": "Learn series and parallel circuit analysis",
+          "completed": false,
+          "category": "Week 3-4: Circuit Theory Fundamentals"
+        },
+        {
+          "id": "1-7",
+          "title": "Master Kirchhoff's Current Law (KCL)",
+          "completed": false,
+          "category": "Week 3-4: Circuit Theory Fundamentals"
+        },
+        {
+          "id": "1-8",
+          "title": "Master Kirchhoff's Voltage Law (KVL)",
+          "completed": false,
+          "category": "Week 3-4: Circuit Theory Fundamentals"
+        },
+        {
+          "id": "1-9",
+          "title": "Practice voltage divider and current divider circuits",
+          "completed": false,
+          "category": "Week 3-4: Circuit Theory Fundamentals"
+        },
+        {
+          "id": "1-10",
+          "title": "Complete: 10 circuit analysis problems",
+          "completed": false,
+          "category": "Week 3-4: Circuit Theory Fundamentals"
+        },
+        {
+          "id": "1-11",
+          "title": "Install and try a circuit simulator (Tinkercad Circuits)",
+          "completed": false,
+          "category": "Week 3-4: Circuit Theory Fundamentals"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Core Components & Digital Basics",
+      "duration": "Weeks 5-8",
+      "tasks": [
+        {
+          "id": "2-1",
+          "title": "Understand how transistors work (BJT basics)",
+          "completed": false,
+          "category": "Week 5-6: Active Components"
+        },
+        {
+          "id": "2-2",
+          "title": "Learn MOSFET fundamentals",
+          "completed": false,
+          "category": "Week 5-6: Active Components"
+        },
+        {
+          "id": "2-3",
+          "title": "Study diodes and their applications",
+          "completed": false,
+          "category": "Week 5-6: Active Components"
+        },
+        {
+          "id": "2-4",
+          "title": "Learn LED current limiting calculations",
+          "completed": false,
+          "category": "Week 5-6: Active Components"
+        },
+        {
+          "id": "2-5",
+          "title": "Practice reading 5 different component datasheets",
+          "completed": false,
+          "category": "Week 5-6: Active Components"
+        },
+        {
+          "id": "2-6",
+          "title": "Buy: Basic components kit for breadboarding",
+          "completed": false,
+          "category": "Week 5-6: Active Components"
+        },
+        {
+          "id": "2-7",
+          "title": "Learn all basic logic gates (AND, OR, NOT, NAND, NOR, XOR)",
+          "completed": false,
+          "category": "Week 7-8: Digital Electronics"
+        },
+        {
+          "id": "2-8",
+          "title": "Understand Boolean algebra basics",
+          "completed": false,
+          "category": "Week 7-8: Digital Electronics"
+        },
+        {
+          "id": "2-9",
+          "title": "Study flip-flops and basic sequential circuits",
+          "completed": false,
+          "category": "Week 7-8: Digital Electronics"
+        },
+        {
+          "id": "2-10",
+          "title": "Build 3 simple digital circuits on breadboard",
+          "completed": false,
+          "category": "Week 7-8: Digital Electronics"
+        },
+        {
+          "id": "2-11",
+          "title": "Complete: Digital logic simulation exercise",
+          "completed": false,
+          "category": "Week 7-8: Digital Electronics"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "PCB Design Introduction",
+      "duration": "Weeks 9-12",
+      "tasks": [
+        {
+          "id": "3-1",
+          "title": "Learn PCB layer stackup (single vs double vs multilayer)",
+          "completed": false,
+          "category": "Week 9: PCB Fundamentals"
+        },
+        {
+          "id": "3-2",
+          "title": "Understand through-hole vs SMD components",
+          "completed": false,
+          "category": "Week 9: PCB Fundamentals"
+        },
+        {
+          "id": "3-3",
+          "title": "Learn PCB terminology: pads, vias, traces, silkscreen",
+          "completed": false,
+          "category": "Week 9: PCB Fundamentals"
+        },
+        {
+          "id": "3-4",
+          "title": "Watch: PCB manufacturing process video",
+          "completed": false,
+          "category": "Week 9: PCB Fundamentals"
+        },
+        {
+          "id": "3-5",
+          "title": "Install: KiCad (latest version)",
+          "completed": false,
+          "category": "Week 9: PCB Fundamentals"
+        },
+        {
+          "id": "3-6",
+          "title": "Learn KiCad schematic editor interface",
+          "completed": false,
+          "category": "Week 10: Schematic Capture"
+        },
+        {
+          "id": "3-7",
+          "title": "Practice placing components and wiring",
+          "completed": false,
+          "category": "Week 10: Schematic Capture"
+        },
+        {
+          "id": "3-8",
+          "title": "Learn to use symbol libraries",
+          "completed": false,
+          "category": "Week 10: Schematic Capture"
+        },
+        {
+          "id": "3-9",
+          "title": "Create netlist from schematic",
+          "completed": false,
+          "category": "Week 10: Schematic Capture"
+        },
+        {
+          "id": "3-10",
+          "title": "Complete: Draw schematic of simple power supply",
+          "completed": false,
+          "category": "Week 10: Schematic Capture"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Intermediate Skills",
+      "duration": "Weeks 13-20",
+      "tasks": [
+        {
+          "id": "4-1",
+          "title": "Study linear voltage regulators (78xx series)",
+          "completed": false,
+          "category": "Week 13-14: Power Systems"
+        },
+        {
+          "id": "4-2",
+          "title": "Learn about switching regulators (buck converters)",
+          "completed": false,
+          "category": "Week 13-14: Power Systems"
+        },
+        {
+          "id": "4-3",
+          "title": "Understand decoupling capacitor placement",
+          "completed": false,
+          "category": "Week 13-14: Power Systems"
+        },
+        {
+          "id": "4-4",
+          "title": "Learn ground plane techniques",
+          "completed": false,
+          "category": "Week 13-14: Power Systems"
+        },
+        {
+          "id": "4-5",
+          "title": "Complete: Design 5V power supply circuit",
+          "completed": false,
+          "category": "Week 13-14: Power Systems"
+        },
+        {
+          "id": "4-6",
+          "title": "Learn minimum trace width/spacing rules",
+          "completed": false,
+          "category": "Week 15-16: Design Rules & Manufacturing"
+        },
+        {
+          "id": "4-7",
+          "title": "Understand solder mask and paste layers",
+          "completed": false,
+          "category": "Week 15-16: Design Rules & Manufacturing"
+        },
+        {
+          "id": "4-8",
+          "title": "Learn about vias (through, blind, buried)",
+          "completed": false,
+          "category": "Week 15-16: Design Rules & Manufacturing"
+        },
+        {
+          "id": "4-9",
+          "title": "Practice creating fabrication drawings",
+          "completed": false,
+          "category": "Week 15-16: Design Rules & Manufacturing"
+        },
+        {
+          "id": "4-10",
+          "title": "Complete: Design rules checklist for your designs",
+          "completed": false,
+          "category": "Week 15-16: Design Rules & Manufacturing"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Advanced Topics",
+      "duration": "Weeks 21-30",
+      "tasks": [
+        {
+          "id": "5-1",
+          "title": "Learn analog vs digital separation techniques",
+          "completed": false,
+          "category": "Week 21-22: Mixed Signal Design"
+        },
+        {
+          "id": "5-2",
+          "title": "Study ADC/DAC interface circuits",
+          "completed": false,
+          "category": "Week 21-22: Mixed Signal Design"
+        },
+        {
+          "id": "5-3",
+          "title": "Understand noise reduction strategies",
+          "completed": false,
+          "category": "Week 21-22: Mixed Signal Design"
+        },
+        {
+          "id": "5-4",
+          "title": "Complete: Design audio amplifier circuit",
+          "completed": false,
+          "category": "Week 21-22: Mixed Signal Design"
+        },
+        {
+          "id": "5-5",
+          "title": "Learn when traces become transmission lines",
+          "completed": false,
+          "category": "Week 23-24: High-Speed Basics"
+        },
+        {
+          "id": "5-6",
+          "title": "Study controlled impedance basics",
+          "completed": false,
+          "category": "Week 23-24: High-Speed Basics"
+        },
+        {
+          "id": "5-7",
+          "title": "Understand differential pairs",
+          "completed": false,
+          "category": "Week 23-24: High-Speed Basics"
+        },
+        {
+          "id": "5-8",
+          "title": "Complete: USB interface circuit design",
+          "completed": false,
+          "category": "Week 23-24: High-Speed Basics"
+        },
+        {
+          "id": "5-9",
+          "title": "Install and learn LTSpice basics",
+          "completed": false,
+          "category": "Week 25-26: Simulation Skills"
+        },
+        {
+          "id": "5-10",
+          "title": "Practice DC operating point simulation",
+          "completed": false,
+          "category": "Week 25-26: Simulation Skills"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalTasks": 41,
+    "completedTasks": 0,
+    "progress": 0
+  }
+}
